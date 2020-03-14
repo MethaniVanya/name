@@ -1,0 +1,7 @@
+127.0.0.1 - - [10/Feb/2020:10:30:43 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [10/Feb/2020:10:30:44 +0530] "GET /NewProject/Index.jsp HTTP/1.1" 200 265
+0:0:0:0:0:0:0:1 - - [10/Feb/2020:10:31:08 +0530] "GET /NewProject/Index.jsp HTTP/1.1" 200 265
+0:0:0:0:0:0:0:1 - - [10/Feb/2020:10:33:24 +0530] "GET /NewProject/Index.jsp HTTP/1.1" 200 325
+0:0:0:0:0:0:0:1 - - [10/Feb/2020:15:34:59 +0530] "GET /NewProject/Matherror.jsp HTTP/1.1" 500 2116
+0:0:0:0:0:0:0:1 - - [10/Feb/2020:15:54:22 +0530] "GET /NewProject/Math.html HTTP/1.1" 200 329
+0:0:0:0:0:0:0:1 - - [10/Feb/2020:16:08:38 +0530] "GET /NewProject/First.jsp HTTP/1.1" 500 3826

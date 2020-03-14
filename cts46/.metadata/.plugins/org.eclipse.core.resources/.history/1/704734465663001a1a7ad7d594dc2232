@@ -1,0 +1,11 @@
+package unitesting;
+public class TestClassB {
+@test
+public void display()
+{
+	System.out.println("Inside the testJunit");
+}
+@test
+
+}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Mbc&apos; to &apos;Mvc&apos;" description="Rename resource &apos;Mbc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Mbc" name="Mvc" stamp="1581661783595" updateReferences="true"/>
+</session>
